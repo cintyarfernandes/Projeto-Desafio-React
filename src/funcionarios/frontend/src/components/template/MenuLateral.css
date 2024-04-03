@@ -1,0 +1,28 @@
+.bg-info {
+    --bs-bg-opacity: 1;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 56px;
+    border-radius: 0px 20px 20px 0;
+    padding: 0;
+}
+
+  .icon-elemento:hover {
+    opacity: 0.8; 
+  }
+
+  .menu-lateral{
+    background-color: #649FBF;
+    border-radius: 20px 20px 0 0;
+  
+  }
+  
+
+.col-md-1 {
+  flex: 0 0 auto;
+  width: 8.33333333%;
+  margin: 0;
+  padding: 0;
+}

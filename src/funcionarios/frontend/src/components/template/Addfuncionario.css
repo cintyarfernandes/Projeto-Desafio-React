@@ -1,0 +1,22 @@
+.btn btn-primary{
+    margin-left: 50px;
+}
+    
+
+.box-principal{
+    border-radius: 20px 20px 0px 0px;
+    background-color: white;
+}
+
+.conteudo{
+    width: 690px;
+}
+
+.funcionario{
+    padding: 10px 10px 10px 30px ;
+    background-color: #649FBF;
+    border-radius: 20px 20px 0 0;
+    font-size: 27px;
+    color:white;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+  }
+  
+  .btn-primary.disabled {
+    background-color: #dddddd; 
+    border-color: #dddddd; 
+    color: #6c757d; 
+    cursor: not-allowed; 
+  }

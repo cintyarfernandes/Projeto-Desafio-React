@@ -1,0 +1,35 @@
+{
+    "users":[{
+        "id":1,
+        "name": "Daniel Alves da Silva",
+        "cpf": "000.000.000-99",
+        "status": "Ativo",
+        "cargo": "Cargo 1"
+    },
+    
+    {
+        "id":2,
+        "name": "Giselle Torres Lopes",
+        "cpf": "000.000.000-88",
+        "status": "Inativo",
+        "cargo": "Cargo 2"
+
+    },
+    {
+        "id":3,
+        "name": "Ana Bispo Dos Santos",
+        "cpf": "000.000.000-99",
+        "status": "Inativo",
+        "cargo": "Cargo 1"
+
+    },
+
+    {
+
+        "id":4,
+        "name": "Regina Elisa Souza",
+        "cpf": "000.000.000-99",
+        "status":"Ativo",
+        "cargo":"Cargo 3"
+    }]
+}

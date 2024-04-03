@@ -1,0 +1,72 @@
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 1.25rem;
+    margin-top: 7px;
+}
+
+.formulario{ 
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    width: 770px;
+}
+
+.box-one{
+    border: solid 1px #649FBF;
+    padding: 10px;
+    border-radius: 10px;
+  
+}
+
+.imagem-vector{
+    padding-top: 25px;
+}
+
+.imagem{
+width: 100%;
+}
+
+.menu{
+    margin-right: 50px;
+    background-color: black;
+}
+
+.nav-link{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 20px;
+}
+
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin: 0;
+}
+
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-top: 32px;
+}
+
+.col-12 {
+    flex: 0 0 auto;
+    margin-left: -25px;
+}
+
+.btn-epi{
+    display: flex;
+    margin-top: 23px;
+    height: 39px;
+    font-size: 15px;
+    align-items: center;
+}
